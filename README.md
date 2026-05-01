@@ -2,7 +2,7 @@
 
 # Ello Ello There, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Amir
 
-## 🚀 About Me
+## 🧍‍♂️ About Me
 🎓 Computer Science student at IIUM<br>
 💻 Passionate about AI, Data Science, Software Development, and Films!<br> 
 ✍️ Currently working on: A Research on Vehicular Forensics / Localized Job Seeking Mobile App<br>
@@ -27,22 +27,22 @@
 ---
 
 ## 📌 Featured Projects
-Smart Adaptive Billboard using Image Classification
-Live Detection of Handwritten Digits using CNN
-AI vs Human Poetry Detection using NLP
-Barber Booking System (Repo)
-Cinema Movie Ordering System
-TMDB Dataset Study (Repo)
+Smart Adaptive Billboard using Image Classification<br>
+Live Detection of Handwritten Digits using CNN<br>
+AI vs Human Poetry Detection using NLP<br>
+Barber Booking System ([Repo](https://github.com/pojinemat/bobs))<br>
+Cinema Movie Ordering System<br>
+TMDB Dataset Study ([Repo](https://github.com/pojinemat/A-TMDb-Dataset-Study))<br>
 
 ---
 
-## 🌐 Connect with Me  
+## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/amirfauzi1010)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/pojinemat)
 
 ---
 
-## 🎥 About the films...
+##  <img src="https://static.wikia.nocookie.net/megapedia/images/2/23/Absolute_Cinema.png/revision/latest?cb=20250921020702" width = 380px><br>About the films...
 
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-1C1C1C?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/tempoyakpatin/)
 
