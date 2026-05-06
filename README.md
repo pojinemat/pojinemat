@@ -7,7 +7,7 @@
 💻 Passionate about AI, Data Science, Software Development, and Films!<br> 
 ✍️ Currently working on: A Research on Vehicular Forensics / Localized Job Seeking Mobile App<br>
 👨‍🎓 Currently learning: Software Testing, Computational Complexity, and Mobile App Development<br>
-📫 Reach me: <a href="mailto:amirfauzinemat@gmail.com">[amirfauzinemat@gmail.com]</a><br>
+📫 Reach me: <a href="mailto:amirfauzinemat@gmail.com">amirfauzinemat@gmail.com</a><br>
 
 ---
 
