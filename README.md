@@ -34,6 +34,8 @@ Barber Booking System ([Repo](https://github.com/pojinemat/bobs))<br>
 Cinema Movie Ordering System<br>
 TMDB Dataset Study ([Repo](https://github.com/pojinemat/A-TMDb-Dataset-Study))<br>
 
+[![pojinemat's GitHub stats](https://github-readme-stats.vercel.app/api?username=pojinemat)](https://github.com/pojinemat/github-readme-stats)
+
 ---
 
 ## 🔗 Connect with Me  
