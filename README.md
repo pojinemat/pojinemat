@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ello Ello There, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Amir
+# Hello There, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Amir
 
 ## 🧍‍♂️ About Me
 🎓 Computer Science student at IIUM<br>
