@@ -27,7 +27,7 @@
 ---
 
 ## 📌 Featured Projects
-Smart Adaptive Billboard using Image Classification<br>
+Smart Adaptive Billboard using Image Classification ([Repo](https://github.com/pojinemat/Smart-Adaptive-Billboard))<br>
 Live Detection of Handwritten Digits using CNN<br>
 AI vs Human Poetry Detection using NLP<br>
 Barber Booking System ([Repo](https://github.com/pojinemat/bobs))<br>
