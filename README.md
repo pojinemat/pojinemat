@@ -3,15 +3,17 @@
 # Hello There, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Amir
 
 ## 🧍‍♂️ About Me
-🎓 Computer Science student at IIUM<br>
-💻 Passionate about AI, Data Science, Software Development, and Films!<br> 
-✍️ Currently working on: SkillLink - Job Seeking Mobile App<br>
-👨‍🎓 Currently learning: Software Testing, Computational Complexity, and Mobile App Development<br>
-📫 Reach me: <a href="mailto:amirfauzinemat@gmail.com">amirfauzinemat@gmail.com</a><br>
+Computer Science student at IIUM<br>
+Passionate about AI, Data Science, Software Development, and Films!<br> 
+Currently working on: SkillLink - Job Seeking Mobile App<br>
+Currently learning: Software Testing, Computational Complexity, and Mobile App Development<br>
+Reach me: <a href="mailto:amirfauzinemat@gmail.com">amirfauzinemat@gmail.com</a><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pojinemat&layout=compact&theme=tokyonight" /><br>
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -26,7 +28,7 @@
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 Smart Adaptive Billboard using Image Classification ([Repo](https://github.com/pojinemat/Smart-Adaptive-Billboard))<br>
 Live Detection of Handwritten Digits using CNN<br>
 AI vs Human Poetry Detection using NLP<br>
@@ -34,13 +36,17 @@ Barber Booking System ([Repo](https://github.com/pojinemat/bobs))<br>
 Cinema Movie Ordering System<br>
 TMDB Dataset Study ([Repo](https://github.com/pojinemat/A-TMDb-Dataset-Study))<br>
 
-[![pojinemat's GitHub stats](https://github-readme-stats.vercel.app/api?username=pojinemat)](https://github.com/pojinemat/pojinemat.github.io)
+<img src="https://github-readme-stats.vercel.app/api?username=pojinemat&show_icons=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pojinemat&theme=github-compact" />
 
 ---
 
-## 🔗 Connect with Me  
+## Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/amirfauzi1010)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/pojinemat)
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 
 ---
 
@@ -53,6 +59,6 @@ TMDB Dataset Study ([Repo](https://github.com/pojinemat/A-TMDb-Dataset-Study))<b
 
 ---
 
-⭐ *“Codes to heaven”*
+**“Codes to heaven”**
 
 </div>
