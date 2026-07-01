@@ -10,6 +10,7 @@ Currently learning: Software Testing, Computational Complexity, and Mobile App D
 Reach me: <a href="mailto:amirfauzinemat@gmail.com">amirfauzinemat@gmail.com</a><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pojinemat&layout=compact&theme=tokyonight" /><br>
+>
 
 ---
 
