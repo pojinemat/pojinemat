@@ -55,7 +55,7 @@ TMDB Dataset Study ([Repo](https://github.com/pojinemat/A-TMDb-Dataset-Study))<b
 
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-1C1C1C?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/tempoyakpatin/)
 
-![Films](https://img.shields.io/badge/Films%20-944-00E054?style=for-the-badge)
+![Films](https://img.shields.io/badge/Films%20-948-00E054?style=for-the-badge)
 ![Rating](https://img.shields.io/badge/Avg%20Rating-3.07★-FF8000?style=for-the-badge)
 
 ---
