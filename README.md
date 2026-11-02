@@ -5,8 +5,8 @@
 ## 🧍‍♂️ About Me
 Computer Science student at IIUM<br>
 Passionate about AI, Data Science, Software Development, and Films!<br> 
-Currently working on: SkillLink - Job Seeking Mobile App<br>
-Currently learning: Software Testing, Computational Complexity, and Mobile App Development<br>
+Currently working on: Getting an internship placement<br>
+Currently learning: The difficulties of securing an internship placement<br>
 Reach me: <a href="mailto:amirfauzinemat@gmail.com">amirfauzinemat@gmail.com</a><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pojinemat&layout=compact&theme=tokyonight" /><br>
